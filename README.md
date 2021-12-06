@@ -142,5 +142,5 @@ That's basically what we did in the project. You can follow the "eyes.py" file t
 <p>
 To run the 4 types of images, all you need to do is change the references of the images to the other references that are imported in the initial lines of the project.
 </br>
-To run the test projects and accuracy check, you only need to run the file.
+To run the test projects and accuracy check, you only need to run the specific file.
 </p>
