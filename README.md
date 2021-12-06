@@ -138,3 +138,9 @@ Our first objective is to try to trace all 68 points on the face of the image pe
 and we made the ratio of the top points to the bottom points of the eye. This reason pre-established by the students can make our analysis quite accurate.
 </p>
 That's basically what we did in the project. You can follow the "eyes.py" file to better understand how we coded.
+</br>
+<p>
+To run the 4 types of images, all you need to do is change the references of the images to the other references that are imported in the initial lines of the project.
+</br>
+To run the test projects and accuracy check, you only need to run the file.
+</p>
